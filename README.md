@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I'm currently working on Web Development and AI-based projects  <br>🤝 I'm looking to collaborate on Open Source and innovative tech projects  <br>🛠 I'm looking for help with advanced backend and cybersecurity concepts  <br>🌱 I'm currently learning Data Structures, System Design & AI  <br>💬 Ask me about Web Development, JavaScript, Python  <br>⚡ Fun fact: I love building real-world projects and solving coding problems daily.
+👨‍💻 I'm currently working on Cyber Security, Web Development and AI-based projects  <br>🤝 I'm looking to collaborate on Open Source and innovative tech projects  <br>🛠 I'm looking for help with advanced backend and cybersecurity concepts  <br>🌱 I'm currently learning Data Structures, System Design & AI  <br>💬 Ask me about Web Development, JavaScript, Python  <br>⚡ Fun fact: I love building real-world projects and solving coding problems daily.
 
 
 ## 🌐 Socials:
